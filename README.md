@@ -1,1 +1,1 @@
-# PolynomialCalculator
+Obiectivul propus in rezolvarea acestei teme este de a realiza un program care preia, prin intermediul unei interfete user friendly, doua polinoame si efectueaza anumite operatii asupra acestora. Operatiile realizate pot fi de doua feluri: operatii care folosesc ambele polinoame sau operatii care se refera doar la un singur polinom. Spre exemplu, adunarea, scaderea, inmultirea si impartirea sunt operatii care se efectueaza intre cele doua polinoame, iar derivarea si integrarea sunt operatii care se refera doar la un polinom.
